@@ -22,8 +22,8 @@ const send = async (option) => {
 let email_data ={
     from:"rlaalstjr831@gmail.com",
     to: "sjms321@naver.com",
-    subject:"쉽고 강한 NodeJs",
-    text:"커뮤니티 활성화의 중요성"
+    subject:"제목입니다",
+    text:"내용입니다"
 }
 
 send(email_data)
